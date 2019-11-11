@@ -32,6 +32,7 @@ ________________
 
 .. image:: /Pictures/Capture1.PNG
 **Output**
+
 .. image:: /Pictures/Capture1_output.PNG
 
 - **Splitting columns to multiple Rows with Pandas**
