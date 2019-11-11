@@ -11,11 +11,17 @@ setup(name='pdext',
       description='Pandas Extention python module',
       long_description=readme(),
       url='https://github.com/malneni/PdExt',
+      download_url = 'https://github.com/malneni/PdExt/archive/V_001.tar.gz'
       author='Venkatesh Malneni',
       author_email='malneni258@gmail.com',
       license='MIT',
       py_modules = ['pdext'],
       keywords = ['pandas', 'Split Columns', 'Multiple Rows'],
+      install_requires=[
+          'numpy',
+          'docx',
+          'pandas',
+      ],
       classifiers=[
           'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
