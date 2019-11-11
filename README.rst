@@ -24,3 +24,10 @@ Documentation
 ________________
 The Python API and its documentation are currently being worked.
 You can find an early preview `here <https://pdext.readthedocs.io/en/latest/>`_.
+
+________________
+How to use
+________________
+- **Splitting columns to multiple columns with Pandas**
+
+.. image:: /Pictures/Capture1.PNG
