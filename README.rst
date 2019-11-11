@@ -22,9 +22,11 @@ ________________
 ________________
 Installation
 ________________
-Windows (cmd):
 
-``>python setup.py install``
+https://pypi.org/project/pdext/
+
+Windows (cmd):
+``>pip install pdext``
 
 
 ________________
