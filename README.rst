@@ -50,15 +50,15 @@ ________________
 
 .. image:: /Pictures/Capture2_output.PNG
 
-**Add pandas DataFrame to word document as table**
+- **Add pandas DataFrame to word document as table**
 
-- With DataFrame Header as Table header
+With DataFrame Header as Table header
 .. image:: /Pictures/Capture3.PNG
 **Output**
 
 .. image:: /Pictures/Capture3_output.PNG
 
-- Without DataFrame Header as Table header
+Without DataFrame Header as Table header
 .. image:: /Pictures/Capture4.PNG
 **Output**
 
