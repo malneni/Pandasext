@@ -20,6 +20,14 @@ ________________
 - `docx <https://pypi.org/project/python-docx/>`_
 
 ________________
+Installation
+________________
+Windows (cmd):
+
+``>python setup.py install``
+
+
+________________
 Documentation
 ________________
 The Python API and its documentation are currently being worked.
@@ -32,14 +40,12 @@ ________________
 
 .. image:: /Pictures/Capture1.PNG
 **Output**
-
 .. image:: /Pictures/Capture1_output.PNG
 
 - **Splitting columns to multiple Rows with Pandas**
 
 .. image:: /Pictures/Capture2.PNG
 **Output**
-
 .. image:: /Pictures/Capture2_output.PNG
 
 **Add pandas DataFrame to word document as table**
@@ -47,11 +53,9 @@ ________________
 - With DataFrame Header as Table header
 .. image:: /Pictures/Capture3.PNG
 **Output**
-
 .. image:: /Pictures/Capture3_output.PNG
 
 - Without DataFrame Header as Table header
 .. image:: /Pictures/Capture4.PNG
 **Output**
-
 .. image:: /Pictures/Capture4_output.PNG
