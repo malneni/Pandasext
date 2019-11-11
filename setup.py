@@ -15,7 +15,7 @@ setup(name='pdext',
       author_email='malneni258@gmail.com',
       license='MIT',
       install_requires=['pandas', 'docx', 'numpy'],
-      packages=['pdext'],
+      py_modules = ['pdext'],
       classifiers=["Programming Language :: Python :: 3.7"],
       zip_safe=False,
       )
