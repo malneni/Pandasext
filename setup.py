@@ -15,6 +15,11 @@ setup(name='pdext',
       author_email='malneni258@gmail.com',
       license='MIT',
       py_modules = ['pdext'],
-      classifiers=["Programming Language :: Python :: 3.7"],
+      keywords = ['pandas', 'Split Columns', 'Multiple Rows'],
+      classifiers=[
+          'Development Status :: 3 - Alpha',
+          'Intended Audience :: Developers',
+          'License :: OSI Approved :: MIT License', 
+          'Programming Language :: Python :: 3.7'],
       zip_safe=False,
       )
